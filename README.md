@@ -1,2 +1,2 @@
-# EFCoreSamples-master
-EFCoreSamples-master
+# LazyLoading
+LazyLoading
